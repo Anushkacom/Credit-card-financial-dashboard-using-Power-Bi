@@ -1,1 +1,3 @@
-# Credit-card-financial-dashboard-using-Power-Bi
+Developed an interactive dashboard using transaction and customer data to provide real-time insights.
+Streamlined data processing and analysis to monitor key performance matrics and trends.
+shared actionable insights based on dashboard findings to support decision-making processes.
